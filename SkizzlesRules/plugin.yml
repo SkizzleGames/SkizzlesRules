@@ -1,0 +1,9 @@
+name: SkizzlesRules
+main: com.skizzlegames.SkizzlesRules.Main
+version: 1.1
+description: Gives you the server rules list
+
+commands:
+    rules:
+     usage: /<command>
+     description: Gives you the server rules list!
